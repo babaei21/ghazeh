@@ -1,0 +1,6 @@
+{
+  "name": "Gaza Children Relief & Humanitarian Aid",
+  "description": "Documenting children in the rubble of Gaza and providing direct humanitarian relief through Tether (USDT) cryptocurrency donations with transparent budget allocation and secure admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
